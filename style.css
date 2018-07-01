@@ -14,12 +14,13 @@ main{
 .input{
     margin:5px 2px;
 }
-.select1{
-    background-color: aquamarine;
+.select1 {
+    background-color: #33cc33;
     padding: 10px;
 }
-.select2{
-    background-color: brown;
+
+.select2 {
+    background-color: #0066cc;
     padding: 10px;
 }
 input{
